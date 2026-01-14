@@ -3,8 +3,6 @@ Unofficial Hytale Plugin documentation containing features I found
 
 ## Commands
 📦 Package: `com.hypixel.hytale.server.core.command`
-
-💡 Example:
 ```kotlin
 package me.mrbernard.hytale.command
 
